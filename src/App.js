@@ -38,8 +38,6 @@ function App() {
     }
   }
 
-  //<li><button onClick={() => handleRemoveRepository(1)}>Remover</button></li>
-
   return (
     <div>
       <ul data-testid="repository-list">
